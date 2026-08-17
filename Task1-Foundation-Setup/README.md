@@ -19,7 +19,7 @@
 | Metasploitable2 | 192.168.56.102 | Target |
 
 ## Deliverables
-- [Lab Setup Report (PDF)](./Task1-Lab-Setup-Report.pdf)
+- [Lab Setup Report (PDF)](./Task1-Lab-Setup-Report.docx)
 - [Linux Command Cheat-Sheet](./linux-cheatsheet.md)
 - [Networking Notes](./networking-notes.md)
 
